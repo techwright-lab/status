@@ -1,0 +1,28 @@
+owner: techwright-lab
+repo: status
+
+sites:
+  - name: TrustGrowth
+    url: https://trustgrowth.ai/up
+  - name: Gleania
+    url: https://gleania.com/up
+  - name: Nferens
+    url: https://nferens.com/up
+  - name: DevDiary
+    url: https://devdiary.me/up
+  - name: MetrixNest
+    url: https://metrixnest.com/up
+  - name: Matriarch
+    url: https://techwright.io/up
+
+status-website:
+  cname: status.techwright.io
+  logoUrl: https://techwright.io/logo.png
+  name: TechWright Status
+  introTitle: "TechWright Product Status"
+  introMessage: Real-time status for all TechWright products.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/techwright-lab/status
